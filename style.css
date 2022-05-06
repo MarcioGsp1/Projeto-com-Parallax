@@ -33,6 +33,8 @@ main{
     max-width: 720px;
     margin: 0 auto;
     padding: 0 20px;
+    
+    
 }
 
 section.module p{
@@ -62,7 +64,7 @@ section.module.parallax{
     overflow: hidden;
     background-position: 50% 50%;
     background-repeat: no-repeat;
-    background-attachment: fixed;  /*Cria o efeiro parallax */
+    background-attachment: fixed;  /*Reponsável pela criação do efeito */
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
